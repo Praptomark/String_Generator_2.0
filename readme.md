@@ -34,3 +34,5 @@ All type of charecter generator inputs.
 - all
 
 > punch = punctuation
+
+Warning Note: File may get large, like huge. Small files maybe around 45mb to 1 GB. Bigger file may surpass 1 TB.
