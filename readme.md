@@ -6,7 +6,7 @@ In order to run it install the requirements in your python venv by running this 
 
 `pip install -r requirements.txt`
 
-Now you can generate any type of char book using.
+Now you can generate any type of chararecter book.
 
 ---
 
