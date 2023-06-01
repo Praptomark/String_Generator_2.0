@@ -2,7 +2,9 @@
 
 New and improved charecter generator which uses now gpu to generate charecter faster. Still a lot testing to do. Just a personal fun project.
 
-In order to run it install the requirements in your python venv by running this code.
+1st run the venv using `./run` in terminal to start the venv.
+
+Now install the requirements in venv by running this code.
 
 `pip install -r requirements.txt`
 
